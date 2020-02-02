@@ -16,7 +16,7 @@ function Product(props) {
     const [productSearch, setProductSearch] = useState([])
 
     useEffect(() => {
-        fetch('http://www.mocky.io/v2/5c9105cb330000112b649af8')
+        fetch('https://www.mocky.io/v2/5c9105cb330000112b649af8')
             .then(data => data.json())
             .then(data => {
                 setProducts(data.products);

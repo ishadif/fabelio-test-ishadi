@@ -2,7 +2,7 @@ import React, {useContext} from 'react'
 import Card from './Card'
 import { ProductContext } from '../providers/Product';
 
-function Products() {
+function ProductList() {
     const {products, styleFilters, timeFilters, productSearch} = useContext(ProductContext)
 
     let filteredProducts = []
@@ -48,4 +48,4 @@ function Products() {
     )
 }
 
-export default Products;
+export default ProductList;
