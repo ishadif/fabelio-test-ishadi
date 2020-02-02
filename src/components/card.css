@@ -1,0 +1,39 @@
+.card {
+  padding: 20px;
+  box-shadow: 0 4px 6px 0 hsla(0, 0%, 0%, 0.2);
+  border-radius: 8px;
+}
+.card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-bottom: 10px;
+}
+.product-title {
+  font-size: 20px;
+  color: rgb(32, 32, 32);
+  margin: 0;
+}
+.product-price {
+  font-size: 16px;
+  color: orange;
+  font-weight: 700;
+}
+.card-content p {
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+.product-styles {
+  color: #0074da;
+  font-weight: 600;
+}
+.product-styles span:not(:last-child) {
+  margin-right: 10px;
+}
+.product-delivery-time {
+  color: blue;
+  text-align: right;
+  text-decoration: underline;
+  font-weight: bold;
+}
