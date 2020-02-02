@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/fabelio-test-ishadi/static/css/main.d2b59fa5.chunk.css",
-    "main.js": "/fabelio-test-ishadi/static/js/main.1a07de26.chunk.js",
-    "main.js.map": "/fabelio-test-ishadi/static/js/main.1a07de26.chunk.js.map",
+    "main.js": "/fabelio-test-ishadi/static/js/main.20752ed6.chunk.js",
+    "main.js.map": "/fabelio-test-ishadi/static/js/main.20752ed6.chunk.js.map",
     "runtime-main.js": "/fabelio-test-ishadi/static/js/runtime-main.e776dc83.js",
     "runtime-main.js.map": "/fabelio-test-ishadi/static/js/runtime-main.e776dc83.js.map",
-    "static/js/2.875f5489.chunk.js": "/fabelio-test-ishadi/static/js/2.875f5489.chunk.js",
-    "static/js/2.875f5489.chunk.js.map": "/fabelio-test-ishadi/static/js/2.875f5489.chunk.js.map",
+    "static/js/2.0748ec05.chunk.js": "/fabelio-test-ishadi/static/js/2.0748ec05.chunk.js",
+    "static/js/2.0748ec05.chunk.js.map": "/fabelio-test-ishadi/static/js/2.0748ec05.chunk.js.map",
     "index.html": "/fabelio-test-ishadi/index.html",
-    "precache-manifest.63096af75936bf5062af5d25cc03fa62.js": "/fabelio-test-ishadi/precache-manifest.63096af75936bf5062af5d25cc03fa62.js",
+    "precache-manifest.ec6640718075d95b228b3862d310862e.js": "/fabelio-test-ishadi/precache-manifest.ec6640718075d95b228b3862d310862e.js",
     "service-worker.js": "/fabelio-test-ishadi/service-worker.js",
     "static/css/main.d2b59fa5.chunk.css.map": "/fabelio-test-ishadi/static/css/main.d2b59fa5.chunk.css.map",
-    "static/js/2.875f5489.chunk.js.LICENSE.txt": "/fabelio-test-ishadi/static/js/2.875f5489.chunk.js.LICENSE.txt"
+    "static/js/2.0748ec05.chunk.js.LICENSE.txt": "/fabelio-test-ishadi/static/js/2.0748ec05.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e776dc83.js",
-    "static/js/2.875f5489.chunk.js",
+    "static/js/2.0748ec05.chunk.js",
     "static/css/main.d2b59fa5.chunk.css",
-    "static/js/main.1a07de26.chunk.js"
+    "static/js/main.20752ed6.chunk.js"
   ]
 }
